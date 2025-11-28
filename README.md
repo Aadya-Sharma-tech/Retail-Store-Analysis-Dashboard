@@ -3,6 +3,7 @@
 ## LINK FOR DATASET ==> https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
 
 Dashboard Overview
+
 This dashboard provides a comprehensive summary of retail sales, profits, inventory, and order trends for the year 2009-10. It aggregates data across multiple countries, products, and time periods, offering insight through geographic, tabular, and graphical representations.​
 
 **KPI Descriptions**
