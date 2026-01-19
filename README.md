@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# Retail Store Analysis
 
 ## LINK FOR DATASET ==> https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
 
